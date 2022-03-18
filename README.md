@@ -2,3 +2,4 @@
 
 - 3/11/2022 Added BeautifulSoup exercise (finding GPU prices on newegg.ca)
 - 3/17/2022 Added Backtesting.py and pandas_ta exercise (candlestick patterns and technical indicator strategies)
+- 3/18/2022 Added XGBoost exercise (IBM Telco churn dataset)
